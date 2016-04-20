@@ -1,7 +1,7 @@
 # backpackinterrupt
 Schematic and code for a piezo triggered turn signal project.
 
-<img width="800" src="./backpackclip.gif"/>
+<img width="600" src="./thumbsup.gif"/>
 
 <p>Jessica Nelson ideated and sewed the backpack. Colten Jackson wrote the code.
 
